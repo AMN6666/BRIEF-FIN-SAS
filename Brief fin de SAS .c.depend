@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732618865 source:c:\users\fatim\onedrive\bureau\brief fin de sas .c\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
